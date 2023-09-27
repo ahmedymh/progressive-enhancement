@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body {
+  max-width: 95%;
+  margin: auto;
+  background-color: #f0f1ff;
+  background-image: url(Photos/wallpaper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom, right;
+}
+blockquote {
+  margin-left: 35%;
+  margin-right: 20%;
+  font-size: 160%;
+  background: #d1d1d1;
+  padding: 10px;
+  border-left: 3px firebrick;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border-radius: 10px;
+}
+.farmer {
+  border-left: 3px solid blue;
+}
+.Villagers {
+  border-left: 3px solid red;
+}
+h1 {
+  text-align: center;
+  margin-left: 38%;
+  margin-right: 33%;
+  background: yellow;
+  border-radius: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+tr:nth-child(even) {
+  background-color: white;
+}
+tr:nth-child(odd) {
+  background-color: gray;
+}
+.Bad {
+  color: red;
+}
+.Good {
+  color: green;
+}
+ul {
+  padding-right: 10%;
+  line-height: 60px;
+}
+.Ilu {
+  display: block;
+  width: 450px;
+  height: 300px;
+  margin-right: 20px;
+  float: left;
+}
+.Ilu1 {
+  width: 450px;
+  height: 300px;
+  float: left;
+  padding-left: 40px;
+  padding-top: 40px;
+}
+h2 {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+.Text {
+  padding-top: 40px;
+  font-family: 'Open Sans', sans-serif;
+}
+.Ilu2 {
+  float: center;
+  width: 500px;
+  height: 300px;
+  display: block;
+  margin-left: 630px;
+}
+.text1 {
+    font-family: 'Open Sans', sans-serif;
+}
+.old {
+  padding-top: 250px;
+}
